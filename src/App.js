@@ -3,11 +3,6 @@ import "./taxi.css";
 import Taxi from "./taxi.js"
 
 class App extends Component{
-  constructor(){
-    super();
-
-  }
-
   render(){
     return(
       <div className="parent">
