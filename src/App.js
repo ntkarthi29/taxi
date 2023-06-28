@@ -5,9 +5,7 @@ import Taxi from "./taxi.js"
 class App extends Component{
   constructor(){
     super();
-    this.state={
 
-    }
   }
 
   render(){
